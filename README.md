@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Barbo-rey
+- 👋 Hi, I’m Rey Barbo aka @Barbo-rey
 - 👀 I’m interested in ... Creating My own family
 - 🌱 I’m currently learning ... Coding
 - 💞️ I’m looking to collaborate on ... AN APP
