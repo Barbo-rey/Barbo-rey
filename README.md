@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Rey Barbo aka @Barbo-rey
 - 👀 I’m interested in ... Creating My own family
-- 🌱 I’m currently learning ... Coding
-- 💞️ I’m looking to collaborate on ... AN APP
-- 📫 How to reach me ... HMU
-- 😄 Pronouns: ...he/HIm
+- 🌱 I’m currently learning ... Software Development 
+- 💞️ I’m looking to collaborate on ... Anything 
+- 📫 How to reach me ... cell:(830)822-7694
+Email: (personal)barborey@icloud.com (work)barboclovis@gmail.com
+- 😄 Pronouns: ...he/him/his
 - ⚡ Fun fact: ...i drive with both feet
 
 <!---
