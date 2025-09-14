@@ -6,6 +6,7 @@
 Email: (personal)barborey@icloud.com (work)barboclovis@gmail.com
 - 😄 Pronouns: ...he/him/his
 - ⚡ Fun fact: I did a major career change.
+-  
 <!---
 Barbo-rey/Barbo-rey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
